@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <item name="carbon_input" type="id"/>
+        <item name="date_picker_day" type="id"/>
+        <string name="deleted_key"/>
+
+</resources>
+
+

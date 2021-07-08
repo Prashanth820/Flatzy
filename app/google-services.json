@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "219095563137",
+    "firebase_url": "https://flatzy-default-rtdb.firebaseio.com",
+    "project_id": "flatzy",
+    "storage_bucket": "flatzy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219095563137:android:6375393331a3fa401f0680",
+        "android_client_info": {
+          "package_name": "com.arpan.collegebroker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219095563137-12ht79r8l4cdg7kq5g7ka6mk7ja84ogh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsBSaZyLY1YGK6mbP4c1tZSj_x1_TSuD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219095563137-12ht79r8l4cdg7kq5g7ka6mk7ja84ogh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219095563137:android:3915336308f3398d1f0680",
+        "android_client_info": {
+          "package_name": "com.example.flatzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219095563137-12ht79r8l4cdg7kq5g7ka6mk7ja84ogh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsBSaZyLY1YGK6mbP4c1tZSj_x1_TSuD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219095563137-12ht79r8l4cdg7kq5g7ka6mk7ja84ogh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

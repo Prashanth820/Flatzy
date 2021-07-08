@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/home_red"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_rent_a_flat"
+            android:icon="@drawable/dollars_money_bag_red"
+            android:title="@string/rent_a_flat" />
+        <item
+            android:id="@+id/nav_list_a_flat"
+            android:icon="@drawable/home_red"
+            android:title="@string/list_a_flat" />
+        <item
+            android:id="@+id/nav_find_mate"
+            android:icon="@drawable/home_red"
+            android:title="Find a mate" />
+        <item
+            android:id="@+id/nav_payment"
+            android:icon="@drawable/home_red"
+            android:title="Payment" />
+        <item
+            android:id="@+id/nav_requests"
+            android:icon="@drawable/home_red"
+            android:title="Requests" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_wrap_text_white_24dp"
+            android:title="@string/logout" />
+    </group>
+</menu>
